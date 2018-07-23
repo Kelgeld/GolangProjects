@@ -1,9 +1,9 @@
 package main
 
 import "fmt"
-import "myfirstapp\\utility"
+//import "GolangProjects\\src\\utility"
 
 func main() {
 	fmt.Println("Hello world")
-	utility.SayHello()
+	
 }
